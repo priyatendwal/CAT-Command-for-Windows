@@ -1,5 +1,5 @@
 # CAT-Command-for-Windows
-To make our command global
+To make command global
 
 Write at the top of the script #!/usr/bin/env node 
 
